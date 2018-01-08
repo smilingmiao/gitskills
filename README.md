@@ -1,4 +1,5 @@
 # gitskills
 
-Create a new line for another branch is easy Dadada & hahaha.
+Create a new line for another branch is easy Dadada and hahaha.
+
 
